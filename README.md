@@ -174,9 +174,3 @@ Pass query variable
   "toggle": 1
 }
 ```
-
-## Author
-
-👤 **Rajneesh Kumar**
-
-* GitHub: [@ancod3r](https://github.com/ancod3r)
