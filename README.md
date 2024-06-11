@@ -1,3 +1,5 @@
+# 📝 **Todo List Web Application**
+
 We're embarking on an intriguing project—a Todo-list Web Application crafted with NodeJS, Express, React, MySQL, GraphQL, Apollo-Client, and Sequelize ORM. The application will empower users to seamlessly Add, Update, Delete, and Strikethrough tasks, with all data securely stored in MySQL.
 
 Navigation Menu
